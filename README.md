@@ -17,3 +17,8 @@
 | `track_name` | string | Titlul piesei |
 | `track_genre` | string | Genul muzical |
 | `duration_ms` | int | Durata piesei, in ms |
+
+## Lab 3
+
+- Am adaugat in `spotify_tracks.csv` coloana `track_id` cu ID-urile fiecarei piese.
+- Item-urile apar corect in Recombee. Datele au fost incarcate cu succes.
